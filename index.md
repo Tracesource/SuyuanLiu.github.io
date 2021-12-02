@@ -8,7 +8,7 @@
       <img src="/image.jpg" alt="Suyuan Liu" width="145px" height="201.6px" />&nbsp;
     </td>
     <td align="left">
-      <p>MA.Sc Candidate</p>
+      <p>M.S. Candidate</p>
       <p SuyuanLiu.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
       <p>Email: suyuanliu@qq.com, suyuanliu@nudt.edu.cn</p>
       <p>Address: Sanyi Road, Kaifu District, Changsha, Hunan, China</p>

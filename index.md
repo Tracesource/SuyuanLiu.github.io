@@ -12,18 +12,23 @@
       <p SuyuanLiu.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
       <p>Email: suyuanliu@qq.com, suyuanliu@nudt.edu.cn</p>
       <p>Address: Sanyi Road, Kaifu District, Changsha, Hunan, China</p>
-      <!--<p>[<a href="https://scholar.google.com/citations?user=MmH2POsAAAAJ&hl=zh-CN">Google Scholar</a>] [<a href="https://www.researchgate.net/profile/Tu-Wenxuan">ResearchGate</a>] [<a href="https://github.com/WxTu">Github</a>] [<a href="https://orcid.org/my-orcid">ORCID</a>]</p>-->
+      <p>[<a href="https://dblp.org/pid/227/5361.html">DBLP</a>] [<a href="https://www.researchgate.net/profile/Suyuan-Liu-2">ResearchGate</a>] [<a href="https://github.com/Tracesource">Github</a>] [<a href="https://orcid.org/my-orcid?orcid=0000-0003-1481-5393">ORCID</a>]</p>
     </td>
  </tr>
 </table>
 
 ### Short Bio
-  <p align = "justify">I am currently pursuing the master degree with the College of Computer, National University of Defense Technology, under the supervisor of Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. My research interests include graph machine learning and computer vision.</p>
+  <p align = "justify">I am currently pursuing the Ph.D. degree with the College of Computer, National University of Defense Technology, under the supervisor of Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. My research interests include clustering and graph learning.</p>
   
 ### Education Experience
+<ul>
+    <li> 
+      <p>[Jan 2023 - Now]. Doctor, National University of Defense Technology, Changsha, China </p>
+    </li>
+  </ul>
   <ul>
     <li> 
-      <p>[Sep 2020 - Now]. Master, National University of Defense Technology, Changsha, China </p>
+      <p>[Sep 2020 - Dec 2022]. Master, National University of Defense Technology, Changsha, China </p>
     </li>
   </ul>
 <ul>

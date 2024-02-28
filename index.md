@@ -10,7 +10,7 @@
     <td align="left">
       <p>M.S. Candidate</p>
       <p SuyuanLiu.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
-      <p>Email: suyuanliu@qq.com, suyuanliu@nudt.edu.cn</p>
+      <p>Email: suyuanliu@nudt.edu.cn</p>
       <p>Address: Sanyi Road, Kaifu District, Changsha, Hunan, China</p>
       <p>[<a href="https://dblp.org/pid/227/5361.html">DBLP</a>] [<a href="https://www.researchgate.net/profile/Suyuan-Liu-2">ResearchGate</a>] [<a href="https://github.com/Tracesource">Github</a>] [<a href="https://orcid.org/my-orcid?orcid=0000-0003-1481-5393">ORCID</a>]</p>
     </td>
@@ -39,46 +39,47 @@
   
 
 <!--### Publications
-   <ul>
+<ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
     </li>
   </ul>
+
+<ul>
+    <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
+    </li>
+  </ul>
+
+   <ul>
+    <li> 
+      <p align = "justify"> Miaomiao Li, Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>. Parameter-Free and Scalable Incomplete Multiview Clustering With Prototype Graph. IEEE Transactions on Neural Networks and Learning Systems, <b>TNNLS</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/document/9777866/">Paper</a>], [<a https://github.com/wangsiwei2010/PSIMVC-PG">Code</a>] </p>
+    </li>
+  </ul> 
   
  <ul>
     <li> 
-      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
+      <p align = "justify"> Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Proceedings of the 36th Annual Conference on Neural Information Processing Systems, <b>NeurIPS 2022<\b>. <b>(JCR 1# TOP)</b> [<a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/270339c997293ca2988c62f4308e389f-Abstract-Conference.html">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
+    </li>
+  </ul> 
+
+  <ul>
+    <li> 
+      <p align = "justify"> Miaomiao Li, Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>. Parameter-Free and Scalable Incomplete Multiview Clustering With Prototype Graph. IEEE Transactions on Neural Networks and Learning Systems, <b>TNNLS</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/document/9777866/">Paper</a>], [<a https://github.com/wangsiwei2010/PSIMVC-PG">Code</a>] </p>
     </li>
   </ul> 
   
   <ul>
     <li> 
-      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/WxTu/CIFReNet">Code</a>] </p>
+      <p align = "justify"> <b>Suyuan Liu</b>, Xinwang Liu, Siwei Wang, Xin Niu, En Zhu. Fast Incomplete Multi-View Clustering With View-Independent Anchors. IEEE Transactions on Neural Networks and Learning Systems, <b>TNNLS</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/document/9982492/">Paper</a>], [<a href="https://github.com/Tracesource/FIMVC-VIA">Code</a>] </p>
     </li>
   </ul> 
   
    <ul>
     <li> 
-      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021 (to appear).  <b>(CCF Rank A)</b> </p>
-    </li>
-  </ul> 
-
-### Awards
-  <ul>
-    <li> 
-      <p>Excellent Graduated Graduate Student of Hunan Province, 2020</p>
-    </li>
-  </ul>
-  <ul>
-    <li> 
-      <p>Future Cup College AI Challenge，1st Place in Central China & Southern China, 2018  </p>
-    </li>
-  </ul>
-<ul>
-    <li> 
-      <p>Future Cup College AI Challenge，3rd Place in National Finals, 2018 </p>
+      <p align = "justify"> 	<b>Suyuan Liu</b>, Siwei Wang, Pei Zhang, Kai Xu, Xinwang Liu, Changwang Zhang, Feng Gao. Efficient One-Pass Multi-View Subspace Clustering with Consensus Anchors. The 36th AAAI Conference on Artificial Intelligence, <b>AAAI 2022</b>. (CCF Rank A) [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20723/">Paper</a>], [<a href="https://github.com/Tracesource/EOMSC-CA">Code</a>] </p>
     </li>
   </ul>-->
 
 ### Contact
-<p>Any discussions or concerns are welcomed! [suyuanliu@qq.com], [suyuanliu@nudt.edu.cn]</p>
+<p>Any discussions or concerns are welcomed! [suyuanliu@nudt.edu.cn]</p>

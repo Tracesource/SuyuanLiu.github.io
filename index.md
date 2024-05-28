@@ -47,25 +47,37 @@
 
 <ul>
     <li> 
-      <p align = "justify"> <b>Suyuan Liu</b>, Junpu Zhang, Yi Wen, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu. Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence, <b>AAAI 2024<b>, pages: 14017-14025. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29310">Paper</a>], [<a href="https://github.com/Tracesource/SCSL">Code</a>] </p>
+      <p align = "justify"> <b>Suyuan Liu</b>, Junpu Zhang, Yi Wen, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, and Xinwang Liu. Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence, <b>AAAI 2024<b>, pages: 14017-14025. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29310">Paper</a>], [<a href="https://github.com/Tracesource/SCSL">Code</a>] </p>
     </li>
   </ul>
 
    <ul>
     <li> 
-      <p align = "justify">Yi Wen, Siwei Wang, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu, <b>Suyuan Liu</b>, Jiyuan Liu, En Zhu. Scalable Incomplete Multi-View Clustering with Structure Alignment. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia, <b>ACM MM 2023</b>, pages: 3031-3040. (CCF Rank A) [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611981">Paper</a>], [<a href="https://github.com/wenyiwy99/SIMVC-SA">Code</a>] </p>
+      <p align = "justify">Yi Wen, Siwei Wang, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu, <b>Suyuan Liu</b>, Jiyuan Liu, and En Zhu. Scalable Incomplete Multi-View Clustering with Structure Alignment. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia, <b>ACM MM 2023</b>, pages: 3031-3040. <b>(CCF Rank A)<b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611981">Paper</a>], [<a href="https://github.com/wenyiwy99/SIMVC-SA">Code</a>] </p>
     </li>
   </ul> 
   
  <ul>
     <li> 
-      <p align = "justify"> Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Proceedings of the 36th Annual Conference on Neural Information Processing Systems, <b>NeurIPS 2022<\b>. <b>(JCR 1# TOP)</b> [<a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/270339c997293ca2988c62f4308e389f-Abstract-Conference.html">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
+      <p align = "justify">  Yi Wen*, <b>Suyuan Liu*</b>, Xinhang Wan, Siwei Wang, Ke Liang, Xinwang Liu, Xihong Yang, and Pei Zhang. Efficient Multi-View Graph Clustering with Local and Global Structure Preservation. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia, <b>ACM MM 2023</b>, pages: 3021-3030. <b>(CCF Rank A)<b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611986">Paper</a>], [<a href="https://github.com/Tracesource/EMVGC-LG">Code</a>] </p>
     </li>
   </ul> 
 
   <ul>
     <li> 
-      <p align = "justify"> Miaomiao Li, Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>. Parameter-Free and Scalable Incomplete Multiview Clustering With Prototype Graph. IEEE Transactions on Neural Networks and Learning Systems, <b>TNNLS</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/document/9777866/">Paper</a>], [<a https://github.com/wangsiwei2010/PSIMVC-PG">Code</a>] </p>
+      <p align = "justify">  Xihong Yang, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, Yi Wen, <b>Suyuan Liu</b>, Sihang Zhou, Xinwang Liu, and En Zhu. DealMVC: Dual Contrastive Calibration for Multi-view Clustering. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia, <b>ACM MM 2023</b>, pages: 337-346. <b>(CCF Rank A)<b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611951">Paper</a>], [<a href="https://github.com/xihongyang1999/DealMVC">Code</a>] </p>
+    </li>
+  </ul> 
+
+  <ul>
+    <li> 
+      <p align = "justify"> Siwei Wang, Xinwang Liu, <b>Suyuan Liu<b>, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-Scale Multi-View Clustering with Anchor Matching Correspondences. Proceedings of the Thirty-Sixth Annual Conference on Neural Information Processing Systems, <b>NeurIPS 2022<b>, pages: 5882-5895. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2205.15075.pdf">Paper</a>], [<a href="https://github.com/wangsiwei2010/NeurIPS22-FMVACC">Code</a>] </p>
+    </li>
+  </ul> 
+
+  <ul>
+    <li> 
+      <p align = "justify"> <b>Suyuan Liu<b>, Siwei Wang, Pei Zhang, Kai Xu, Xinwang Liu, Changwang Zhang, and Feng Gao. Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors. Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence, <b>AAAI 2022</b>, pages: 7576-7584. (CCF Rank A) [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20723">Paper</a>], [<a href="https://github.com/Tracesource/EOMSC-CA">Code</a>] </p>
     </li>
   </ul> 
   

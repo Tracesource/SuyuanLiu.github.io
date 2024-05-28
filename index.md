@@ -48,7 +48,7 @@
 
 <ul>
     <li> 
-      <p align = "justify"> Huimin Ma, Siwei Wang, Junpu Zhang, Shengju Yu, <b>Suyuan Liu</b>, Xinwang Liu, and Kunlun He. Symmetric Multi-view Subspace Clustering with Automatic Neighbor Discovery. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). <b>(CCF Rank B, JCR Q1)</b>b> [<a href="https://ieeexplore.ieee.org/document/10508192/">Paper</a>] </p>
+      <p align = "justify"> Huimin Ma, Siwei Wang, Junpu Zhang, Shengju Yu, <b>Suyuan Liu</b>, Xinwang Liu, and Kunlun He. Symmetric Multi-view Subspace Clustering with Automatic Neighbor Discovery. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10508192/">Paper</a>] </p>
     </li>
 </ul>
 

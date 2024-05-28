@@ -104,6 +104,12 @@
 
 <ul>
   <li> 
+      <p align = "justify"> <b>刘溯源</b>, 王思为, 唐厂, 周思航, 王思齐, 刘新旺. 基于加权锚点的多视图聚类算法. 自动化学报. <b>(CCF Rank A)</b> [<a href="http://aas.net.cn/cn/article/doi/10.16383/j.aas.c220531">Paper</a>], [<a href="https://github.com/Tracesource/MVC-WA">Code</a>] </p>
+  </li>
+</ul> 
+
+<ul>
+  <li> 
       <p align = "justify"> <b>Suyuan Liu</b>, Xinwang Liu, Siwei Wang, Xin Niu, and En Zhu. Fast Incomplete Multi-View Clustering With View-Independent Anchors. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9982492/">Paper</a>], [<a href="https://github.com/Tracesource/FIMVC-VIA">Code</a>] </p>
   </li>
 </ul> 

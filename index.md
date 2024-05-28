@@ -73,6 +73,12 @@
 ### 2023
 <ul>
   <li> 
+      <p align = "justify"> Miaomiao Li, Qing Liao, Yi Zhang, Chuan Ma, Zhe Liu, <b>Suyuan Liu</b>, Jianping Yin, and Xinwang Liu. Regularized Simple Multiple Kernel K-means with Kernel Average Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10195917/">Paper</a>] </p>
+  </li>
+</ul> 
+
+<ul>
+  <li> 
       <p align = "justify">Yi Wen, Siwei Wang, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu, <b>Suyuan Liu</b>, Jiyuan Liu, and En Zhu. Scalable Incomplete Multi-View Clustering with Structure Alignment. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia (ACM MM), 2023, pages: 3031-3040. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611981">Paper</a>], [<a href="https://github.com/wenyiwy99/SIMVC-SA">Code</a>] </p>
   </li>
 </ul> 
@@ -105,12 +111,6 @@
 <ul>
   <li> 
       <p align = "justify"> <b>Suyuan Liu</b>, Siwei Wang, Pei Zhang, Kai Xu, Xinwang Liu, Changwang Zhang, and Feng Gao. Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors. Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022, pages: 7576-7584. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20723">Paper</a>], [<a href="https://github.com/Tracesource/EOMSC-CA">Code</a>] </p>
-  </li>
-</ul> 
-  
-<ul>
-  <li> 
-      <p align = "justify"> Miaomiao Li, Qing Liao, Yi Zhang, Chuan Ma, Zhe Liu, <b>Suyuan Liu</b>, Jianping Yin, and Xinwang Liu. Regularized Simple Multiple Kernel K-means with Kernel Average Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10195917/">Paper</a>] </p>
   </li>
 </ul> 
   

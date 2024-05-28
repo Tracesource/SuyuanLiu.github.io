@@ -59,12 +59,6 @@
 </ul>
 
 <ul>
-  <li> 
-      <p align = "justify"> Shengju Yu, <b>Suyuan Liu</b>, Siwei Wang, Chang Tang, Zhigang Luo, and Xinwang Liu. Sparse Low-rank Multi-view Subspace Clustering with Consensus Anchors and Unified Bipartite Graph. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10325611">Paper</a>] </p>
-  </li>
-</ul> 
-
-<ul>
     <li> 
       <p align = "justify"> <b>Suyuan Liu</b>, Qing Liao, Siwei Wang, Xinwang Liu, and En Zhu. Robust and Consistent Anchor Graph Learning for Multi-view Clustering. IEEE Transactions on Knowledge and Data Engineering (TKDE). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10440580/">Paper</a>], [<a href="https://github.com/Tracesource/RCAGL">Code</a>] </p>
     </li>
@@ -83,6 +77,12 @@
 </ul>
 
 ### 2023
+<ul>
+  <li> 
+      <p align = "justify"> Shengju Yu, <b>Suyuan Liu</b>, Siwei Wang, Chang Tang, Zhigang Luo, and Xinwang Liu. Sparse Low-rank Multi-view Subspace Clustering with Consensus Anchors and Unified Bipartite Graph. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10325611">Paper</a>] </p>
+  </li>
+</ul> 
+
 <ul>
   <li> 
       <p align = "justify"> Miaomiao Li, Qing Liao, Yi Zhang, Chuan Ma, Zhe Liu, <b>Suyuan Liu</b>, Jianping Yin, and Xinwang Liu. Regularized Simple Multiple Kernel K-means with Kernel Average Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10195917/">Paper</a>] </p>

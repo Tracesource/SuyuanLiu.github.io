@@ -41,19 +41,19 @@
 <!--### Publications
 <ul>
     <li> 
-      <p align = "justify"> <b>Suyuan Liu</b>, Ke Liang, Zhibin Dong, Siwei Wang, Xihong Yang, Sihang Zhou, En Zhu, Xinwang Liu. Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering. CVPR 2024,  (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> <b>Suyuan Liu</b>, Ke Liang, Zhibin Dong, Siwei Wang, Xihong Yang, Sihang Zhou, En Zhu, Xinwang Liu. Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering. Proceedings of the Thirty-Sixth IEEE Conference on Computer Vision and Pattern Recognition, <b>CVPR 2024<b>,  (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
 
 <ul>
     <li> 
-      <p align = "justify"> <b>Suyuan Liu</b>, Junpu Zhang, Yi Wen, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu. Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
+      <p align = "justify"> <b>Suyuan Liu</b>, Junpu Zhang, Yi Wen, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu. Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence, <b>AAAI 2024<b>, pages: 14017-14025. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29310">Paper</a>], [<a href="https://github.com/Tracesource/SCSL">Code</a>] </p>
     </li>
   </ul>
 
    <ul>
     <li> 
-      <p align = "justify"> Miaomiao Li, Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>. Parameter-Free and Scalable Incomplete Multiview Clustering With Prototype Graph. IEEE Transactions on Neural Networks and Learning Systems, <b>TNNLS</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/document/9777866/">Paper</a>], [<a https://github.com/wangsiwei2010/PSIMVC-PG">Code</a>] </p>
+      <p align = "justify">Yi Wen, Siwei Wang, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu, <b>Suyuan Liu</b>, Jiyuan Liu, En Zhu. Scalable Incomplete Multi-View Clustering with Structure Alignment. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia, <b>ACM MM 2023</b>, pages: 3031-3040. (CCF Rank A) [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611981">Paper</a>], [<a href="https://github.com/wenyiwy99/SIMVC-SA">Code</a>] </p>
     </li>
   </ul> 
   

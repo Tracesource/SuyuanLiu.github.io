@@ -140,7 +140,7 @@
   
 <ul>
   <li> 
-      <p align = "justify"> Miaomiao Li, Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>. Parameter-Free and Scalable Incomplete Multi-view Clustering with Prototype Graph. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/9777866">Paper</a>] </p>
+      <p align = "justify"> Miaomiao Li, Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>. Parameter-Free and Scalable Incomplete Multi-view Clustering with Prototype Graph. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/9777866">Paper</a>], [<a href="https://github.com/wangsiwei2010/PSIMVC-PG">Code</a>] </p>
   </li>
 </ul> 
   

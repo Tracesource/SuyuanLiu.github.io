@@ -76,10 +76,22 @@
     </li>
 </ul>
 
+<ul>
+    <li> 
+      <p align = "justify"> Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, <b>Suyuan Liu</b>, Zhao Lv, Pan Li, Miao Wang, and En Zhu. A Non-parametric Graph Clustering Framework for Multi-View Data. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, pages: 14017-14025. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29594">Paper</a>]</p>
+    </li>
+</ul>
+
 ### 2023
 <ul>
   <li> 
       <p align = "justify"> Miaomiao Li, Qing Liao, Yi Zhang, Chuan Ma, Zhe Liu, <b>Suyuan Liu</b>, Jianping Yin, and Xinwang Liu. Regularized Simple Multiple Kernel K-means with Kernel Average Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10195917/">Paper</a>] </p>
+  </li>
+</ul> 
+
+<ul>
+  <li> 
+      <p align = "justify"> Miaomiao Li, Yi Zhang, <b>Suyuan Liu</b>, Zhe Liu, and Xinzhong Zhu. Simple multiple kernel k-means with kernel weight regularization. Information Fusion. <b>(JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/pii/S156625352300218X">Paper</a>] </p>
   </li>
 </ul> 
 

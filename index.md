@@ -83,13 +83,37 @@
   
   <ul>
     <li> 
-      <p align = "justify"> <b>Suyuan Liu</b>, Xinwang Liu, Siwei Wang, Xin Niu, En Zhu. Fast Incomplete Multi-View Clustering With View-Independent Anchors. IEEE Transactions on Neural Networks and Learning Systems, <b>TNNLS</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/document/9982492/">Paper</a>], [<a href="https://github.com/Tracesource/FIMVC-VIA">Code</a>] </p>
+      <p align = "justify"> <b>Suyuan Liu</b>, Xinwang Liu, Siwei Wang, Xin Niu, and En Zhu. Fast Incomplete Multi-View Clustering With View-Independent Anchors. IEEE Transactions on Neural Networks and Learning Systems, <b>TNNLS</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/document/9982492/">Paper</a>], [<a href="https://github.com/Tracesource/FIMVC-VIA">Code</a>] </p>
     </li>
   </ul> 
   
    <ul>
     <li> 
-      <p align = "justify"> 	<b>Suyuan Liu</b>, Siwei Wang, Pei Zhang, Kai Xu, Xinwang Liu, Changwang Zhang, Feng Gao. Efficient One-Pass Multi-View Subspace Clustering with Consensus Anchors. The 36th AAAI Conference on Artificial Intelligence, <b>AAAI 2022</b>. (CCF Rank A) [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20723/">Paper</a>], [<a href="https://github.com/Tracesource/EOMSC-CA">Code</a>] </p>
+      <p align = "justify"> <b>Suyuan Liu<b>, Qing Liao, Siwei Wang, Xinwang Liu, and En Zhu. Robust and Consistent Anchor Graph Learning for Multi-view Clustering. IEEE Transactions on Knowledge and Data Engineering, <b>TKDE</b>. (CCF Rank A, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/abstract/document/10440580/">Paper</a>], [<a href="https://github.com/Tracesource/RCAGL">Code</a>] </p>
+    </li>
+  </ul>
+  
+  <ul>
+    <li> 
+      <p align = "justify"> Shengju Yu, <b>Suyuan Liu<b>, Siwei Wang, Chang Tang, Zhigang Luo, and Xinwang Liu. Sparse Low-rank Multi-view Subspace Clustering with Consensus Anchors and Unified Bipartite Graph. IEEE Transactions on Neural Networks and Learning Systems, <b>TNNLS</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/abstract/document/10325611">Paper</a>] </p>
+    </li>
+  </ul>
+  
+  <ul>
+    <li> 
+      <p align = "justify"> Miaomiao Li, Qing Liao, Yi Zhang, Chuan Ma, Zhe Liu, <b>Suyuan Liu<b>, Jianping Yin, and Xinwang Liu. Regularized Simple Multiple Kernel K-means with Kernel Average Alignment. IEEE Transactions on Neural Networks and Learning Systems, <b>TNNLS</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/abstract/document/10195917/">Paper</a>] </p>
+    </li>
+  </ul>
+  
+  <ul>
+    <li> 
+      <p align = "justify"> Miaomiao Li, Siwei Wang, Xinwang Liu, <b>Suyuan Liu<b>. Parameter-Free and Scalable Incomplete Multi-view Clustering with Prototype Graph. IEEE Transactions on Neural Networks and Learning Systems, <b>TNNLS</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/abstract/document/9777866">Paper</a>] </p>
+    </li>
+  </ul>
+  
+  <ul>
+    <li> 
+      <p align = "justify"> Huimin Ma, Siwei Wang, Junpu Zhang, Shengju Yu, <b>Suyuan Liu<b>, Xinwang Liu, and Kunlun He. Symmetric Multi-view Subspace Clustering with Automatic Neighbor Discovery. IEEE Transactions on Circuits and Systems for Video Technology, <b>TCSVT</b>. (CCF Rank B, JCR 1# TOP) [<a href="https://ieeexplore.ieee.org/document/10508192/">Paper</a>] </p>
     </li>
   </ul>-->
 

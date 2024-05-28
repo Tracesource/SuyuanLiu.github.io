@@ -134,7 +134,7 @@
 
 <ul>
   <li> 
-      <p align = "justify"> <b>Suyuan Liu</b>, Siwei Wang, Pei Zhang, Kai Xu, Xinwang Liu, Changwang Zhang, and Feng Gao. Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors. Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022, pages: 7576-7584. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20723">Paper</a>], [<a href="https://github.com/Tracesource/EOMSC-CA">Code</a>] </p>
+      <p align = "justify"> <b>Suyuan Liu*</b>, Siwei Wang*, Pei Zhang, Kai Xu, Xinwang Liu, Changwang Zhang, and Feng Gao. Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors. Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022, pages: 7576-7584. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20723">Paper</a>], [<a href="https://github.com/Tracesource/EOMSC-CA">Code</a>] </p>
   </li>
 </ul> 
   

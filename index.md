@@ -40,6 +40,31 @@
 
 ### Publications
 ### 2024
+
+<ul>
+    <li> 
+      <p align = "justify"> Ke Liang, Lingyuan Meng, Yue Liu, Meng Liu, Wei Wei, Siwei Wang, <b>Suyuan Liu</b>, Wenxuan Tu, Sihang Zhou, and Xinwang Liu. Simple Yet Effective: Structure Guided Pre-trained Transformer for Multi-modal Knowledge Graph Reasoning. Proceedings of the 32st ACM International Conference on Multimedia (ACM MM), 2024. <b>(CCF Rank A)</b> [<a href="https://openreview.net/forum?id=oFsIK2JefP">Paper</a>]</p>
+    </li>
+</ul>
+
+<ul>
+    <li> 
+      <p align = "justify"> Huimin Ma, Siwei Wang, Shengju Yu, <b>Suyuan Liu</b>, Jun-Jie Huang, Huijun Wu, Xinwang Liu, and En Zhu. Automatic and Aligned Anchor Learning Strategy for Multi-View Clustering. Proceedings of the 32st ACM International Conference on Multimedia (ACM MM), 2024. <b>(CCF Rank A)</b> [<a href="https://openreview.net/forum?id=TKRqWQVawP">Paper</a>]</p>
+    </li>
+</ul>
+
+<ul>
+    <li> 
+      <p align = "justify"> Dayu Hu*, <b>Suyuan Liu*</b>, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, Xinzhong Zhu, Chang Tang, and Xinwang Liu. Reliable Attribute-missing Multi-view Clustering with Instance-level and Feature-level Cooperative Imputation. Proceedings of the 32st ACM International Conference on Multimedia (ACM MM), 2024. <b>(CCF Rank A)</b> [<a href="https://openreview.net/forum?id=peyB8AbCdY">Paper</a>]</p>
+    </li>
+</ul>
+
+<ul>
+    <li> 
+      <p align = "justify"> Jun Wang, Zhenglai Li, Chang Tang, <b>Suyuan Liu</b>, Xinhang Wan, and Xinwang Liu. Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection. IEEE Transactions on Knowledge and Data Engineering (TKDE). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10529609">Paper</a>], [<a href="https://github.com/WangJun2023/MPS">Code</a>] </p>
+    </li>
+</ul>
+
 <ul>
     <li> 
       <p align = "justify"> Jun Wang, Zhenglai Li, Chang Tang, <b>Suyuan Liu</b>, Xinhang Wan, and Xinwang Liu. Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection. IEEE Transactions on Knowledge and Data Engineering (TKDE). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10529609">Paper</a>], [<a href="https://github.com/WangJun2023/MPS">Code</a>] </p>
@@ -97,19 +122,19 @@
 
 <ul>
   <li> 
-      <p align = "justify">Yi Wen, Siwei Wang, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu, <b>Suyuan Liu</b>, Jiyuan Liu, and En Zhu. Scalable Incomplete Multi-View Clustering with Structure Alignment. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia (ACM MM), 2023, pages: 3031-3040. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611981">Paper</a>], [<a href="https://github.com/wenyiwy99/SIMVC-SA">Code</a>] </p>
+      <p align = "justify">Yi Wen, Siwei Wang, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu, <b>Suyuan Liu</b>, Jiyuan Liu, and En Zhu. Scalable Incomplete Multi-View Clustering with Structure Alignment. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023, pages: 3031-3040. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611981">Paper</a>], [<a href="https://github.com/wenyiwy99/SIMVC-SA">Code</a>] </p>
   </li>
 </ul> 
   
 <ul>
   <li> 
-      <p align = "justify">  Yi Wen*, <b>Suyuan Liu*</b>, Xinhang Wan, Siwei Wang, Ke Liang, Xinwang Liu, Xihong Yang, and Pei Zhang. Efficient Multi-View Graph Clustering with Local and Global Structure Preservation. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia (ACM MM), 2023, pages: 3021-3030. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611986">Paper</a>], [<a href="https://github.com/Tracesource/EMVGC-LG">Code</a>] </p>
+      <p align = "justify">  Yi Wen*, <b>Suyuan Liu*</b>, Xinhang Wan, Siwei Wang, Ke Liang, Xinwang Liu, Xihong Yang, and Pei Zhang. Efficient Multi-View Graph Clustering with Local and Global Structure Preservation. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023, pages: 3021-3030. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611986">Paper</a>], [<a href="https://github.com/Tracesource/EMVGC-LG">Code</a>] </p>
   </li>
 </ul> 
 
 <ul>
   <li> 
-      <p align = "justify">  Xihong Yang, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, Yi Wen, <b>Suyuan Liu</b>, Sihang Zhou, Xinwang Liu, and En Zhu. DealMVC: Dual Contrastive Calibration for Multi-view Clustering. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia (ACM MM), 2023, pages: 337-346. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611951">Paper</a>], [<a href="https://github.com/xihongyang1999/DealMVC">Code</a>] </p>
+      <p align = "justify">  Xihong Yang, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, Yi Wen, <b>Suyuan Liu</b>, Sihang Zhou, Xinwang Liu, and En Zhu. DealMVC: Dual Contrastive Calibration for Multi-view Clustering. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023, pages: 337-346. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611951">Paper</a>], [<a href="https://github.com/xihongyang1999/DealMVC">Code</a>] </p>
   </li>
 </ul> 
 

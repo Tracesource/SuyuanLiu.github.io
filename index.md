@@ -42,6 +42,24 @@
 ### 2024
 
 <ul>
+  <li> 
+      <p align = "justify"> Suyuan Liu, Siwei Wang, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, Xinwang Liu, and Kunlun He. Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering. Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing System (NeurIPS), 2024. <b>(CCF Rank A)</b> [<a href="https://neurips.cc/virtual/2024/poster/96633">Paper</a>] </p>
+  </li>
+</ul> 
+
+<ul>
+  <li> 
+      <p align = "justify"> Fangdi Wang, Siwei Wang, Jiaqi Jin, jingtao Hu, Suyuan Liu, Xihong Yang, Xinwang Liu, and En Zhu. Evaluate then cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering. Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing System (NeurIPS), 2024. <b>(CCF Rank A)</b> [<a href="https://neurips.cc/virtual/2024/poster/93062">Paper</a>] </p>
+  </li>
+</ul> 
+
+<ul>
+  <li> 
+      <p align = "justify"> Ke Liang, Yue Liu，Hao Liu, Lingyuan Meng, <b>Suyuan Liu</b>, Siwei Wang, Sihang Zhou, and Xinwang Liu. Clustering then Propagation: Select Better Anchors for Knowledge Graph Embedding. Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing System (NeurIPS), 2024. <b>(CCF Rank A)</b> [<a href="https://neurips.cc/virtual/2024/poster/96176">Paper</a>] </p>
+  </li>
+</ul> 
+
+<ul>
     <li> 
       <p align = "justify"> Ke Liang, Lingyuan Meng, Yue Liu, Meng Liu, Wei Wei, Siwei Wang, <b>Suyuan Liu</b>, Wenxuan Tu, Sihang Zhou, and Xinwang Liu. Simple Yet Effective: Structure Guided Pre-trained Transformer for Multi-modal Knowledge Graph Reasoning. Proceedings of the 32st ACM International Conference on Multimedia (ACM MM), 2024. <b>(CCF Rank A)</b> [<a href="https://openreview.net/forum?id=oFsIK2JefP">Paper</a>]</p>
     </li>

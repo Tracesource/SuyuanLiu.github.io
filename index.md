@@ -42,14 +42,20 @@
 ### 2024
 
 <ul>
+    <li> 
+      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Wenxuan Tu, and En Zhu. Scalable and Structural Multi-view Graph Clustering with Adaptive Anchor Fusion. IEEE Transactions on Image Processing (TIP). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10643455">Paper</a>], [<a href="https://github.com/wangsiwei2010/SMVAGC-SF">Code</a>] </p>
+    </li>
+</ul>
+
+<ul>
   <li> 
-      <p align = "justify"> Suyuan Liu, Siwei Wang, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, Xinwang Liu, and Kunlun He. Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering. Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing System (NeurIPS), 2024. <b>(CCF Rank A)</b> [<a href="https://neurips.cc/virtual/2024/poster/96633">Paper</a>] </p>
+      <p align = "justify"> <b>Suyuan Liu</b>, Siwei Wang, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, Xinwang Liu, and Kunlun He. Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering. Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing System (NeurIPS), 2024. <b>(CCF Rank A)</b> [<a href="https://neurips.cc/virtual/2024/poster/96633">Paper</a>] </p>
   </li>
 </ul> 
 
 <ul>
   <li> 
-      <p align = "justify"> Fangdi Wang, Siwei Wang, Jiaqi Jin, jingtao Hu, Suyuan Liu, Xihong Yang, Xinwang Liu, and En Zhu. Evaluate then cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering. Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing System (NeurIPS), 2024. <b>(CCF Rank A)</b> [<a href="https://neurips.cc/virtual/2024/poster/93062">Paper</a>] </p>
+      <p align = "justify"> Fangdi Wang, Siwei Wang, Jiaqi Jin, jingtao Hu, <b>Suyuan Liu</b>, Xihong Yang, Xinwang Liu, and En Zhu. Evaluate then cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering. Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing System (NeurIPS), 2024. <b>(CCF Rank A)</b> [<a href="https://neurips.cc/virtual/2024/poster/93062">Paper</a>] </p>
   </li>
 </ul> 
 

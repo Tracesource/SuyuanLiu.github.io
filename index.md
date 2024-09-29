@@ -43,7 +43,7 @@
 
 <ul>
     <li> 
-      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Wenxuan Tu, and En Zhu. Scalable and Structural Multi-view Graph Clustering with Adaptive Anchor Fusion. IEEE Transactions on Image Processing (TIP). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10643455">Paper</a>], [<a href="https://github.com/wangsiwei2010/SMVAGC-SF">Code</a>] </p>
+      <p align = "justify"> Siwei Wang, Xinwang Liu, <b>Suyuan Liu</b>, Wenxuan Tu, and En Zhu. Scalable and Structural Multi-view Graph Clustering with Adaptive Anchor Fusion. IEEE Transactions on Image Processing (TIP). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10643455">Paper</a>], [<a href="https://github.com/wangsiwei2010/SMVAGC-SF">Code</a>] </p>
     </li>
 </ul>
 

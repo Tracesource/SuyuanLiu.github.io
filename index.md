@@ -67,12 +67,6 @@
 
 <ul>
     <li> 
-      <p align = "justify"> Jun Wang, Zhenglai Li, Chang Tang, <b>Suyuan Liu</b>, Xinhang Wan, and Xinwang Liu. Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection. IEEE Transactions on Knowledge and Data Engineering (TKDE). <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10529609">Paper</a>], [<a href="https://github.com/WangJun2023/MPS">Code</a>] </p>
-    </li>
-</ul>
-
-<ul>
-    <li> 
       <p align = "justify"> Huimin Ma, Siwei Wang, Junpu Zhang, Shengju Yu, <b>Suyuan Liu</b>, Xinwang Liu, and Kunlun He. Symmetric Multi-view Subspace Clustering with Automatic Neighbor Discovery. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10508192/">Paper</a>] </p>
     </li>
 </ul>

@@ -97,7 +97,7 @@
 
 <ul>
     <li> 
-      <p align = "justify"> <b>Suyuan Liu</b>, Ke Liang, Zhibin Dong, Siwei Wang, Xihong Yang, Sihang Zhou, En Zhu, Xinwang Liu. Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering. Proceedings of the Thirty-Sixth IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024,  pages: 26151-26161. <b>(CCF Rank A)</b>  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Learn_from_View_Correlation_An_Anchor_Enhancement_Strategy_for_Multi-view_CVPR_2024_paper.pdf">Paper</a>] </p>
+      <p align = "justify"> <b>Suyuan Liu</b>, Ke Liang, Zhibin Dong, Siwei Wang, Xihong Yang, Sihang Zhou, En Zhu, Xinwang Liu. Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering. Proceedings of the Thirty-Sixth IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024,  pages: 26151-26161. <b>(CCF Rank A)</b>  [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Learn_from_View_Correlation_An_Anchor_Enhancement_Strategy_for_Multi-view_CVPR_2024_paper.pdf">Paper</a>], [<a href="https://github.com/Tracesource/AEVC">Code</a>] </p>
     </li>
 </ul>
 
